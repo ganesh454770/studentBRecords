@@ -1,0 +1,48 @@
+{
+  "Stubusrecords": [
+    {
+      "id": 1,
+      "name": "Ganesh",
+      "school": "DyPatil",
+      "mobile": "8623864547",
+      "email": "ganesh@gmail.com",
+      "location": "Pune",
+      "totalAmount": 1000,
+      "receivedAmount": 500,
+      "remeningAmount": 500
+    },
+    {
+      "id": 2,
+      "name": "Dnayneshwari",
+      "school": "AbhishekVidyalayam",
+      "mobile": "9890800938",
+      "email": "Dnayneshwari@gmail.com",
+      "location": "Pune",
+      "totalAmount": 500,
+      "receivedAmount": 500,
+      "remeningAmount": 0
+    },
+    {
+      "id": 3,
+      "name": "Ishwari",
+      "school": "SantPith",
+      "mobile": "9890800938",
+      "email": "Ishwari@gmail.com",
+      "location": "Pune",
+      "totalAmount": 300,
+      "receivedAmount": 300,
+      "remeningAmount": 0
+    },
+    {
+      "id": 4,
+      "name": "Pooja",
+      "school": "svm",
+      "mobile": "8623864547",
+      "email": "pooja@gmail.com",
+      "location": "pune",
+      "totalAmount": "1000",
+      "receivedAmount": "500",
+      "remeningAmount": "500"
+    }
+  ]
+}
